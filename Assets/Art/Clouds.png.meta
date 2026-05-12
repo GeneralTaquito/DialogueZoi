@@ -1,13 +1,19 @@
 fileFormatVersion: 2
-guid: 0dbff1e8538cf734f998cc234db6da72
+guid: 6803387140459c547b059cf0e50f4212
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2584753990348008322
-    second: Background_Parallax1_0
+      213: 2669142961033076756
+    second: Clouds_0
   - first:
-      213: 2947136104249967701
-    second: Background_Parallax1_1
+      213: -3967920315399815954
+    second: Clouds_1
+  - first:
+      213: -1749161583622989117
+    second: Clouds_2
+  - first:
+      213: -5240784962635489071
+    second: Clouds_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -49,7 +55,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -116,13 +122,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Background_Parallax1_0
+      name: Clouds_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 920
-        height: 411
+        x: 65
+        y: 216
+        width: 813
+        height: 680
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,20 +137,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e74988db0fb112cd0800000000000000
-      internalID: -2584753990348008322
+      spriteID: 4106c1f9163ba0520800000000000000
+      internalID: 2669142961033076756
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Background_Parallax1_1
+      name: Clouds_1
       rect:
         serializedVersion: 2
-        x: 1124
-        y: 0
-        width: 796
-        height: 450
+        x: 1069
+        y: 292
+        width: 853
+        height: 433
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -153,8 +159,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5544c861ca456e820800000000000000
-      internalID: 2947136104249967701
+      spriteID: eecb98ffe7d1fe8c0800000000000000
+      internalID: -3967920315399815954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds_2
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 228
+        width: 816
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca5461aecab9b7e0800000000000000
+      internalID: -1749161583622989117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds_3
+      rect:
+        serializedVersion: 2
+        x: 3133
+        y: 79
+        width: 785
+        height: 786
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d027e5e7ddf447b0800000000000000
+      internalID: -5240784962635489071
       vertices: []
       indices: 
       edges: []
@@ -163,7 +213,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -173,8 +223,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Background_Parallax1_0: -2584753990348008322
-      Background_Parallax1_1: 2947136104249967701
+      Clouds_0: 2669142961033076756
+      Clouds_1: -3967920315399815954
+      Clouds_2: -1749161583622989117
+      Clouds_3: -5240784962635489071
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

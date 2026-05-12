@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 59afaad55d47b604fa5eab541e5355d7
+guid: e302502b988da394cb43aa899678fdbc
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6926055516460976726
-    second: Background_Parallaxfull_0
+      213: 939339622802605316
+    second: Game-Assets-Backgrounds5_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Background_Parallaxfull_0
+      name: Game-Assets-Backgrounds5_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1920
-        height: 916
+        x: 1432
+        y: 732
+        width: 344
+        height: 344
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: aa575be1435b1ef90800000000000000
-      internalID: -6926055516460976726
+      spriteID: 405499cf864390d00800000000000000
+      internalID: 939339622802605316
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Background_Parallaxfull_0: -6926055516460976726
+      Game-Assets-Backgrounds5_0: 939339622802605316
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
